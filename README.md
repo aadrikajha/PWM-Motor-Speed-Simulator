@@ -1,3 +1,5 @@
+**Live Demo:** [Try the PWM Motor Speed Simulator](https://pwm-motor-speed-simulator.streamlit.app/)
+
 # PWM-Based DC Motor Speed Control Simulator
 
 An interactive engineering simulation that demonstrates DC motor speed control using Pulse Width Modulation (PWM). Built using Python, NumPy, Matplotlib and Streamlit.
